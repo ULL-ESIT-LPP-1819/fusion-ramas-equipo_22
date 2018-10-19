@@ -4,3 +4,5 @@ os lenguajes compilados necesitan de un programa especial que lea el código fue
  
 
 Los lenguajes interpretados necesitan de un programa que traduzca en directo el código fuente escrito a instrucciones de la plataforma en la que se ejecutan
+
+La principal diferencia es que en el .sh indica en que bash debe compilador el codigo.
